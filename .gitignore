@@ -1,0 +1,35 @@
+# Date si rezultate voluminoase
+Data/
+Results/CSV/
+Results/Plots/
+
+# Fisiere Python generate
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Mediu virtual
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fisiere temporare
+*.tmp
+*.log
