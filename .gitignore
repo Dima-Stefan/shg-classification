@@ -1,7 +1,7 @@
 # Date si rezultate voluminoase
 Data/
-Results/CSV/
-Results/Plots/
+#Results/CSV/
+#Results/Plots/
 
 # Fisiere Python generate
 __pycache__/
